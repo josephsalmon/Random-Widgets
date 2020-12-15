@@ -1,6 +1,6 @@
 numpy
 matplotlib
 scipy
-ipywidgets>=7.5.1
+ipywidgets>=7.5
 seaborn
 voila
