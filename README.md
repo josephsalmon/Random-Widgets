@@ -1,13 +1,14 @@
 # Visualisation de densités/fonctions de masse/tirages de variables aléatoires
 
+Pour lancer les widget en ligne (avec Binder), cliquez sur les images.
+
+**Attention**: le démarrage peut prendre de quelques secondes à une minute.
+
+Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
+
 
 ## Lois continues (univariées)
-
-Pour lancer le code de ce chapitre sur Binder, appuyez sur ce bouton :
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb)
-
-Le démarrage prend environ une minute, mais vous devriez ensuite voir la page avec un widget du type affiché ci-dessous
- (avec l'extension .ipynb).
 
 
 [<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_continuous.png?sanitize=true" height="200">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb)
