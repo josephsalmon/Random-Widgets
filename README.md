@@ -1,8 +1,8 @@
 # Visualisation de densités/fonctions de masse/tirages de variables aléatoires
 
-Pour lancer les widget en ligne (avec Binder), cliquez sur les images.
+Pour lancer les widgets en ligne (avec Binder), cliquez sur les images.
 
-**Attention**: le démarrage peut prendre de quelques secondes à une minute.
+**Attention**: le démarrage peut prendre de quelques secondes / minutes selon la charge du site.
 
 Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
 
