@@ -1,7 +1,6 @@
 numpy
 matplotlib
 scipy
-xlrd>=1.0.0
 pandas
 ipywidgets>=7.5
 ipympl
