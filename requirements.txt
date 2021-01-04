@@ -1,6 +1,7 @@
 numpy
 matplotlib
 scipy
+pandas
 ipywidgets>=7.5
 ipympl
 voila
