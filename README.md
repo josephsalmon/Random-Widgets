@@ -21,3 +21,7 @@ Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
 ## Quantiles et lois continues
 
 [<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_quantile.png?sanitize=true" height="200">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FQuantile.ipynb)
+
+## Courbes ROC (ROC curves) et tests
+[<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_roc_curves.png?sanitize=true" height="200">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FROC_curve_PCR_tests.ipynb)
+
