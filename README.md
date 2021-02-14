@@ -44,3 +44,7 @@ Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
 
 [<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_MCO.png?sanitize=true" height="260">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FMCO.ipynb)
 
+
+
+
+**Sources**: voir <https://github.com/binder-examples/latex/> pour la gestion de LaTeX dans les images.
