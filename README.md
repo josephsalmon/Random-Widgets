@@ -37,7 +37,7 @@ Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
 ## Courbes ROC (ROC curves) et tests
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FROC_curve_PCR_tests.ipynb)
 
-[<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_roc_curves.png?sanitize=true" height="260">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FROC_curve_PCR_tests.ipynb)
+[<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_roc_curves.png?sanitize=true" height="205">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FROC_curve_PCR_tests.ipynb)
 
 ## Moindres Carrés Ordinaires (MCO) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fscreenshot_MCO.ipynb)
