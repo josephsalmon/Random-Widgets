@@ -14,6 +14,14 @@ Les sources sont disponibles dans le répertoire "notebooks" au format `.ipynb`.
 [<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_continuous.png?sanitize=true" height="200">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_echantillons.ipynb)
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_Gaussian2D.ipynb)
+
+
+[<img src="https://raw.github.com/josephsalmon/Random-Widgets/master/images/screenshot_2dGaussian.png?sanitize=true" height="200">](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FDensite_Gaussian2D.ipynb)
+
+
+
+
 ## Lois discrètes
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josephsalmon/Random-Widgets/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FFonction_masse_echantillon.ipynb)
