@@ -1,7 +1,8 @@
 numpy
-matplotlib
+matplotlib>=3.3.2
 scipy
 pandas
-ipywidgets>=7.5
-ipympl
+ipywidgets>=7.5.1
+ipympl=0.5.8
 voila
+
