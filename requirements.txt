@@ -5,5 +5,3 @@ pandas
 ipywidgets>=7.5.1
 ipympl==0.5.8
 voila
-tornado>=6.0.4
-
